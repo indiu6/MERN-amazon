@@ -1,3 +1,5 @@
-# MERN Amazon App
+## MERN Amazon App
 
-This project was built by React, Node.js, Express,
+- This project is being built by MERN stack (MongoDB, ExpressJS, React and Node.JS).
+
+- Also will use Redux, Heroku
