@@ -1,0 +1,24 @@
+{
+  "name": "MERN-amazon",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This project was built by React, Node.js, Express,",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiu6/MERN-amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indiu6/MERN-amazon/issues"
+  },
+  "homepage": "https://github.com/indiu6/MERN-amazon#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
