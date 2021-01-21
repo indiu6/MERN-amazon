@@ -20,5 +20,9 @@
   "homepage": "https://github.com/indiu6/MERN-amazon#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-plugin-react": "^7.22.0"
   }
 }
